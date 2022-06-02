@@ -1,0 +1,16 @@
+C:\Users\catia\Desktop\4. C# 6.0\003task\bin\Debug\net6.0\003task.exe
+C:\Users\catia\Desktop\4. C# 6.0\003task\bin\Debug\net6.0\003task.deps.json
+C:\Users\catia\Desktop\4. C# 6.0\003task\bin\Debug\net6.0\003task.runtimeconfig.json
+C:\Users\catia\Desktop\4. C# 6.0\003task\bin\Debug\net6.0\003task.dll
+C:\Users\catia\Desktop\4. C# 6.0\003task\bin\Debug\net6.0\ref\003task.dll
+C:\Users\catia\Desktop\4. C# 6.0\003task\bin\Debug\net6.0\003task.pdb
+C:\Users\catia\Desktop\4. C# 6.0\003task\obj\Debug\net6.0\003task.GlobalUsings.g.cs
+C:\Users\catia\Desktop\4. C# 6.0\003task\obj\Debug\net6.0\003task.csproj.AssemblyReference.cache
+C:\Users\catia\Desktop\4. C# 6.0\003task\obj\Debug\net6.0\003task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catia\Desktop\4. C# 6.0\003task\obj\Debug\net6.0\003task.AssemblyInfoInputs.cache
+C:\Users\catia\Desktop\4. C# 6.0\003task\obj\Debug\net6.0\003task.AssemblyInfo.cs
+C:\Users\catia\Desktop\4. C# 6.0\003task\obj\Debug\net6.0\003task.csproj.CoreCompileInputs.cache
+C:\Users\catia\Desktop\4. C# 6.0\003task\obj\Debug\net6.0\003task.dll
+C:\Users\catia\Desktop\4. C# 6.0\003task\obj\Debug\net6.0\ref\003task.dll
+C:\Users\catia\Desktop\4. C# 6.0\003task\obj\Debug\net6.0\003task.pdb
+C:\Users\catia\Desktop\4. C# 6.0\003task\obj\Debug\net6.0\003task.genruntimeconfig.cache

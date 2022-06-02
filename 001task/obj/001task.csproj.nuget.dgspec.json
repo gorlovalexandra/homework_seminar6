@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\catia\\Desktop\\seminar 6\\001task\\001task.csproj": {}
+    "C:\\Users\\catia\\Desktop\\4. C# 6.0\\001task\\001task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\catia\\Desktop\\seminar 6\\001task\\001task.csproj": {
+    "C:\\Users\\catia\\Desktop\\4. C# 6.0\\001task\\001task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\catia\\Desktop\\seminar 6\\001task\\001task.csproj",
+        "projectUniqueName": "C:\\Users\\catia\\Desktop\\4. C# 6.0\\001task\\001task.csproj",
         "projectName": "001task",
-        "projectPath": "C:\\Users\\catia\\Desktop\\seminar 6\\001task\\001task.csproj",
+        "projectPath": "C:\\Users\\catia\\Desktop\\4. C# 6.0\\001task\\001task.csproj",
         "packagesPath": "C:\\Users\\catia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\catia\\Desktop\\seminar 6\\001task\\obj\\",
+        "outputPath": "C:\\Users\\catia\\Desktop\\4. C# 6.0\\001task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\catia\\AppData\\Roaming\\NuGet\\NuGet.Config"
