@@ -25,19 +25,19 @@ void PrintArray(int[,] array)
 
 void FrequencyDictionary(int[,] array)
 {
+    Dictionary<int, int> countArr = new Dictionary<int, int>();
+
     foreach (int element in array)
     {
-        int i = 0;
-        int j = 0;
-        int sum = 0;
-        while (array[i, j] < array.GetLength(0) && array[i, j] < array.GetLength(1))
-        {
-            if (array[i, j] == element)
-                sum = sum + 1;
-        }
-        i++;
-        j++;
-        Console.WriteLine("occurs " + sum + " time");
+        if (countArr.ContainsKey(element))
+            countArr[element]++;
+        else
+            countArr.Add(element, 1);
+    }
+
+    foreach (var element in countArr)
+    {
+        Console.WriteLine($"element {element.Key} occurs {element.Value} times");
     }
 }
 
